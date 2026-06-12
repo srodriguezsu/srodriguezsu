@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=srodriguezsu&show_icons=true&theme=tokyonight&count_private=true)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight)
+
 <!--
 **srodriguezsu/srodriguezsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
