@@ -5,6 +5,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srodriguezsu&theme=tokyonight)
+
 <!--
 **srodriguezsu/srodriguezsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
