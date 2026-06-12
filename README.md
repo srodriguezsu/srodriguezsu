@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=srodriguezsu&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight&hide=html,css)
