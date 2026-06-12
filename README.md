@@ -1,6 +1,6 @@
 # Hi there, I'm Sebastián! 👋
 
-I am a Full-Stack Software Developer focused on building clean web applications, designing robust system architectures, and integrating generative AI tools into production workflows. I love building tools that automate manual processes and optimize user experiences.
+I am a Full-Stack Software Developer focused on building clean web applications and designing robust system architectures. I love building tools that automate manual processes and optimize user experiences.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srodriguezsu&theme=tokyonight" alt="GitHub Streak" />
 
