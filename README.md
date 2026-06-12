@@ -3,7 +3,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=srodriguezsu&show_icons=true&theme=tokyonight&count_private=true)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight&hide=html,css)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srodriguezsu&theme=tokyonight)
 
