@@ -2,11 +2,17 @@
 
 I am a Full-Stack Software Developer focused on building clean web applications, designing robust system architectures, and integrating generative AI tools into production workflows. I love building tools that automate manual processes and optimize user experiences.
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srodriguezsu&theme=tokyonight" alt="GitHub Streak" />
+
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,19 +28,6 @@ I am a Full-Stack Software Developer focused on building clean web applications,
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=srodriguezsu&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" alt="Sebastián's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srodriguezsu&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-📫 **How to reach me:** [www.linkedin.com/in/sebastian-rodriguez-57a29a228]
+📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/sebastian-rodriguez-57a29a228)
 
 *“Always learning and continuously improving.”*
