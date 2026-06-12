@@ -7,6 +7,11 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srodriguezsu&theme=tokyonight)
 
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb)
+
 <!--
 **srodriguezsu/srodriguezsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
