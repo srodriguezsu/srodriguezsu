@@ -6,12 +6,9 @@ I am a Full-Stack Software Developer focused on building clean web applications,
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### **Languages**
+## 🛠️ Tech Stack & Tools
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodriguezsu&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
-
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
